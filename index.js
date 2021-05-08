@@ -18,11 +18,3 @@ const reproductor = {
 reproductor.nuevaCancion = 'Save me';
 reproductor.obtenerCancion;
 
-
-reproductor.reproducir(30);
-reproductor.reproducir(20);
-reproductor.pausar();
-reproductor.borrar(30);
-reproducir.crearPlayList('Heavy Metal');
-reproducir.crearPlayList('Rock 90s');
-reproducir.crearPlayList('Heavy Metal');
